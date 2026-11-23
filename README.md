@@ -67,7 +67,7 @@ git add .github\workflows\ci.yml README.md
 git commit -m "Configurar integración continua"
 git push -u origin ci-github-actions
 ```
-
+(Texto de prueba)
 El `push` inicia una ejecución. En GitHub, abrí el repositorio y entrá a la
 pestaña **Actions**; seleccioná **CI**, la ejecución y el job **Comprobar y
 probar** para ver los pasos y sus logs. Al final de la página de la ejecución
